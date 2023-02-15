@@ -13,8 +13,7 @@
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" align="left">
 <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" align="left">
 <img src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white" align="left">
-
-
+<img src="https://img.shields.io/badge/golang-F7DF1E?style=for-the-badge&logo=golang&logoColor=black" align="left">
 ## 역할 파트
 
 **front-end** :
